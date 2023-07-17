@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "customerName": "User 1",
+    "date": "17-07-2023",
+    "startTime": "18.00",
+    "endTime": "21.00",
+    "roomId": 1
+  },
+  {
+    "id": 2,
+    "customerName": "User 2",
+    "date": "17-07-2023",
+    "startTime": "18.00",
+    "endTime": "21.00",
+    "roomId": 2
+  }
+]

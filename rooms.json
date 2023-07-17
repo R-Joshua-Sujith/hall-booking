@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Room 1",
+    "seats": "5",
+    "amenities": [
+      "Bed",
+      "Bathroom",
+      "Wifi"
+    ],
+    "pricePerHour": 200
+  },
+  {
+    "id": 2,
+    "name": "Room 2",
+    "seats": "2",
+    "amenities": [
+      "Bed",
+      "Bathroom",
+      "Wifi"
+    ],
+    "pricePerHour": 300
+  }
+]
