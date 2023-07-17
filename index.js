@@ -48,6 +48,11 @@ app.post('/rooms', (req, res) => {
 });
 
 // API endpoint to book a room
+
+app.get('/', (req, res) => {
+    res.send("Hall Booking Api")
+})
+
 app.post('/bookings', (req, res) => {
     const { customerName, date, startTime, endTime, roomId } = req.body;
 

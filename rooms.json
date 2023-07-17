@@ -20,5 +20,16 @@
       "Wifi"
     ],
     "pricePerHour": 300
+  },
+  {
+    "id": 3,
+    "name": "Room 4",
+    "seats": "2",
+    "amenities": [
+      "Bed",
+      "Bathroom",
+      "Wifi"
+    ],
+    "pricePerHour": 300
   }
 ]
